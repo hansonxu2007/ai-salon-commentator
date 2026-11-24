@@ -1,0 +1,22 @@
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+dist/
+__pycache__/
+backend/data/
+.tmp/
+*.tsbuildinfo
+release/
+*.log
+*.mp4
+*.wav
+*.webm
+*.ogg
+*.mp3
+*.zip
+*.exe
+AI Salon Commentator Dashboard.png
+.DS_Store
+Thumbs.db
